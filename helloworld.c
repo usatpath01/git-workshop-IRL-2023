@@ -10,3 +10,8 @@ int main(){
     printf("hello world");
     return 0;
 }
+
+int func2(){
+    printf("hello world");
+    return 0;
+}
